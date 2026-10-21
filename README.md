@@ -239,4 +239,4 @@ This repository serves as the official landing page for Knightfall: Death and Ta
 **Get the most recent version of Knightfall: Death and Taxes today!**
 
 ---
-**Last updated:** 2026-10-21 10:55:17 UTC
+**Last updated:** 2026-10-21 15:46:57 UTC
